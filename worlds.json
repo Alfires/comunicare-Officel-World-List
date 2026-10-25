@@ -1,7 +1,7 @@
 [
   {
     "url": "http://127.0.0.1:8000/test.cne",
-    "iamges": [""]
+    "iamges": [""],
     "name": "My Awesome World",
     "description": "A random text...",
   }
